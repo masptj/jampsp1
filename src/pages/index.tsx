@@ -41,6 +41,7 @@ export default function Home() {
 
         <div className={styles.description}>
           <p>Agora o Masp editando.</p>
+          <p>E neste instante testando o CI/CD por alterar o arquivo incluindo esta linha.</p>
         </div>
 
         <div className={styles.center}>
