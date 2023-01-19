@@ -39,6 +39,10 @@ export default function Home() {
           </div>
         </div>
 
+        <div className={styles.description}>
+          <p>Agora o Masp editando.</p>
+        </div>
+
         <div className={styles.center}>
           <Image
             className={styles.logo}
